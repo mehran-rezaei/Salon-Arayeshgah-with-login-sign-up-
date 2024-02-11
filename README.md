@@ -1,38 +1,7 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![image](https://github.com/mehran-rezaei/Salon-Arayeshgah-with-login-sign-up-/assets/110059221/72376e0e-ca67-4744-bb14-b5cbe95d09e3)## I have a hair salon website which includes login and registration pages, a home page introducing the salon with a amazing animation and slider, and a salon dashboard for salon management by the administrator . This website is built using Next.js, React, TypeScript, and Tailwind CSS.
+![Annotation 2024-02-11 144728](https://github.com/mehran-rezaei/Salon-Arayeshgah-with-login-sign-up-/assets/110059221/04c932dc-affa-4939-a544-e5682cb19da9)
+![Annotation 2024-02-11 144803](https://github.com/mehran-rezaei/Salon-Arayeshgah-with-login-sign-up-/assets/110059221/88e2e249-fade-4f0a-828a-e45dc63df7b3)
+![Annotation 2024-02-11 144825](https://github.com/mehran-rezaei/Salon-Arayeshgah-with-login-sign-up-/assets/110059221/1190225b-52c6-4b83-bc7b-e9626cda55ae)
+![Annotation 2024-02-11 144858](https://github.com/mehran-rezaei/Salon-Arayeshgah-with-login-sign-up-/assets/110059221/5ef1e35b-fcfa-4e4c-a3cc-a04bae4b1177)
+![Annotation 2024-02-11 145004](https://github.com/mehran-rezaei/Salon-Arayeshgah-with-login-sign-up-/assets/110059221/c0b0f718-ec99-4981-b40e-d2a5964e7cbf)
+![Annotation 2024-02-11 145053](https://github.com/mehran-rezaei/Salon-Arayeshgah-with-login-sign-up-/assets/110059221/5e422a7d-955b-4c5a-b7b6-ea7fc8be0122)
