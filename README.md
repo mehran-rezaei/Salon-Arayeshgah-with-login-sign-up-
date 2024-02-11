@@ -8,7 +8,11 @@
 ##
 ![Annotation 2024-02-11 144825](https://github.com/mehran-rezaei/Salon-Arayeshgah-with-login-sign-up-/assets/110059221/6cec1a74-b672-42d1-89f0-83d22816c56b)
 ##
-![Annotation 2024-02-11 144858](https://github.com/mehran-rezaei/Salon-Arayeshgah-with-login-sign-up-/assets/110059221/5ef1e35b-fcfa-4e4c-a3cc-a04bae4b1177)
+![Annotation 2024-02-11 150138](https://github.com/mehran-rezaei/Salon-Arayeshgah-with-login-sign-up-/assets/110059221/cb280e9d-1fee-41cf-be2c-43def84b3125)
+##
+![Annotation 2024-02-11 150209](https://github.com/mehran-rezaei/Salon-Arayeshgah-with-login-sign-up-/assets/110059221/f46a5a57-970e-4acf-9e70-255f76249130)
+##
+![Annotation 2024-02-11 144858](https://github.com/mehran-rezaei/Salon-Arayeshgah-with-login-sign-up-/assets/110059221/9274cdc6-d514-4677-932b-0c45f875ff2e)
 ##
 ![Annotation 2024-02-11 145004](https://github.com/mehran-rezaei/Salon-Arayeshgah-with-login-sign-up-/assets/110059221/c0b0f718-ec99-4981-b40e-d2a5964e7cbf)
 ## 
